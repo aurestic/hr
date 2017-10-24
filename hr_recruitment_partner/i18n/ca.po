@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hr (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-14 03:17+0000\n"
-"PO-Revision-Date: 2017-01-17 18:52+0000\n"
+"POT-Creation-Date: 2017-08-19 02:41+0000\n"
+"PO-Revision-Date: 2017-08-21 07:18+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/oca/OCA-hr-8-0/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -104,12 +104,12 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,child_ids:0
 msgid "Contacts"
-msgstr ""
+msgstr "Contactes"
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,contract_ids:0 field:hr.applicant,contracts_count:0
 msgid "Contracts"
-msgstr ""
+msgstr "Contractes"
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,country_id:0
@@ -124,7 +124,7 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,customer:0
 msgid "Customer"
-msgstr ""
+msgstr "Client "
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,property_stock_customer:0
@@ -206,7 +206,7 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,invoice_ids:0
 msgid "Invoices"
-msgstr ""
+msgstr "Factures"
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,is_company:0
@@ -226,7 +226,7 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,lang:0
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,lastname:0
@@ -259,12 +259,12 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,mobile:0
 msgid "Mobile"
-msgstr ""
+msgstr "Mòbil "
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,comment:0
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,opt_out:0
@@ -377,7 +377,7 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,supplier:0
 msgid "Supplier"
-msgstr ""
+msgstr "Proveïdor "
 
 #. module: hr_recruitment_partner
 #: field:hr.applicant,property_stock_supplier:0
@@ -557,4 +557,4 @@ msgstr ""
 #. module: hr_recruitment_partner
 #: field:hr.applicant,has_image:0
 msgid "unknown"
-msgstr ""
+msgstr "desconegut "

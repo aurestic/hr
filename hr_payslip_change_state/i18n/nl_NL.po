@@ -3,14 +3,15 @@
 # * hr_payslip_change_state
 # 
 # Translators:
-# Mario Gielissen <mario@openworx.nl>, 2016
+# OCA Transbot <transbot@odoo-community.org>, 2016
+# Peter Hageman <hageman.p@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-06 03:44+0000\n"
-"PO-Revision-Date: 2016-12-06 03:44+0000\n"
-"Last-Translator: Mario Gielissen <mario@openworx.nl>, 2016\n"
+"POT-Creation-Date: 2017-08-19 02:40+0000\n"
+"PO-Revision-Date: 2017-08-19 02:40+0000\n"
+"Last-Translator: Peter Hageman <hageman.p@gmail.com>, 2017\n"
 "Language-Team: Dutch (Netherlands) (https://www.transifex.com/oca/teams/23907/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,7 +36,7 @@ msgstr ""
 #. module: hr_payslip_change_state
 #: view:hr.payslip.change.state:hr_payslip_change_state.hr_payslip_change_state_form
 msgid "Cancel"
-msgstr ""
+msgstr "Verwijderen"
 
 #. module: hr_payslip_change_state
 #: selection:hr.payslip.change.state,state:0
@@ -66,17 +67,17 @@ msgstr "Bevestig"
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Aangemaakt door"
 
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Aangemaakt op"
 
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Weergavenaam"
 
 #. module: hr_payslip_change_state
 #: view:hr.payslip.change.state:hr_payslip_change_state.hr_payslip_change_state_form
@@ -86,22 +87,22 @@ msgstr ""
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Laatst gewijzigd op"
 
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Laatst bijgewerkt door"
 
 #. module: hr_payslip_change_state
 #: field:hr.payslip.change.state,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Laatst bijgewerkt op"
 
 #. module: hr_payslip_change_state
 #: code:addons/hr_payslip_change_state/wizard/hr_payslip_change_state.py:49
